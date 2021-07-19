@@ -1,0 +1,14 @@
+/* custom class to change the background color of bg-info */
+.info-background{
+    background-color: #FEEAE9 ;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-button{
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
